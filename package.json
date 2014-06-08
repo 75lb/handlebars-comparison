@@ -5,7 +5,14 @@
   "description": "Javascript comparison operator helpers for handlebars",
   "repository": "https://github.com/75lb/handlebars-comparison.git",
   "main": "./lib/handlebars-comparison.js",
-  "keywords": ["handlebars", "comparison", "equals", "greater than", "less than", "not equal"],
+  "keywords": [
+    "handlebars",
+    "comparison",
+    "equals",
+    "greater than",
+    "less than",
+    "not equal"
+  ],
   "engines": {
     "node": ">=0.10.0"
   },
@@ -13,5 +20,8 @@
     "test": "tape test/*.js",
     "lint": "jshint lib/*.js bin/*.js test/*.js; echo",
     "docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
+  },
+  "devDependencies": {
+    "jsdoc-to-markdown": "^0.1.2"
   }
 }

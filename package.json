@@ -1,7 +1,7 @@
 {
   "name": "handlebars-comparison",
   "author": "Lloyd Brookes <75pound@gmail.com>",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Javascript comparison operator helpers for handlebars",
   "repository": "https://github.com/75lb/handlebars-comparison.git",
   "main": "./lib/handlebars-comparison.js",

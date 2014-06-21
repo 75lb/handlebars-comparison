@@ -23,5 +23,8 @@
   },
   "devDependencies": {
     "jsdoc-to-markdown": "^0.1.2"
+  },
+  "dependencies": {
+    "array-tools": "^1.1.0"
   }
 }

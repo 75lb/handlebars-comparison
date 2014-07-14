@@ -3,23 +3,8 @@
 [![Build Status](https://travis-ci.org/75lb/handlebars-comparison.svg?branch=master)](https://travis-ci.org/75lb/handlebars-comparison)
 [![Dependency Status](https://david-dm.org/75lb/handlebars-comparison.svg)](https://david-dm.org/75lb/handlebars-comparison)
 
-
+<a name="module_handlebars-comparison"></a>
 #handlebars-comparison
 Javascript comparison operator helpers for handlebars.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

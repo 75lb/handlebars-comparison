@@ -22,7 +22,7 @@
     "docs": "jsdoc2md -t jsdoc2md/README.hbs lib/*.js > README.md; echo"
   },
   "devDependencies": {
-    "jsdoc-to-markdown": "^0.1.2"
+    "jsdoc-to-markdown": "^0.4"
   },
   "dependencies": {
     "array-tools": "^1.1.0"

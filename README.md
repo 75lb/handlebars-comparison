@@ -8,3 +8,6 @@
 Javascript comparison operator helpers for handlebars.
 
 
+## License
+
+Licensed under [the MIT license](https://opensource.org/licenses/MIT).

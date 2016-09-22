@@ -5,6 +5,7 @@
   "description": "Javascript comparison operator helpers for handlebars",
   "repository": "https://github.com/75lb/handlebars-comparison.git",
   "main": "./lib/handlebars-comparison.js",
+  "license": "MIT",
   "keywords": [
     "handlebars",
     "comparison",
